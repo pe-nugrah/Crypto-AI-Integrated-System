@@ -25,12 +25,16 @@
     
 ## 🚀 Instalasi
 ```bash
-1.) git clone https://github.com/username/Crypto-AI-Integrated-System.git (Untuk mengunduh)
+1.) git clone https://github.com/username/Crypto-AI-Integrated-System.git
+    (untuk mengunduh, pastikan git sudah terinstal)
 
-2.) Install dependencies: pip install tensorflow transformers pandas requests web3
+2.) Install dependencies : pip install tensorflow transformers pandas requests web3
+    (pastikan pip sudah terinstal)
 
-3.) python crypto-ai-integrated-system.py (untuk menggunakan file python)
+3.) python crypto-ai-integrated-system.py
+    (untuk menggunakan file python, pastikan python 3 sudah terinstal)
 
 4.) Ganti API keys dengan yang valid
 
-5.) Jalankan skrip utama (ada di barisan contoh atau paling bawah)
+5.) Jalankan skrip utama
+    (buka crypto-ai-integrated-system.py menggunakan kode editor, kemudian lihat di barisan contoh atau yang paling bawah)
