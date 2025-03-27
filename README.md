@@ -25,6 +25,8 @@
     
 ## 🚀 Instalasi
 ```bash
+Berikut adalah langkah-langkah instalasi dan penggunaan skrip :
+
 1.) git clone https://github.com/username/Crypto-AI-Integrated-System.git
     (untuk mengunduh, pastikan git sudah terinstal)
 
@@ -38,3 +40,7 @@
 
 5.) Jalankan skrip utama
     (buka crypto-ai-integrated-system.py menggunakan kode editor, kemudian lihat di barisan contoh atau yang paling bawah)
+
+Jika ingin bertanya atau berdiskusi dapat menulis di issues atau kirim ke email penugrah@criptext.com
+
+Terima kasih 😀
